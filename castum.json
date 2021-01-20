@@ -1,0 +1,52 @@
+{
+    "links":[
+        {
+            "text":"home",
+            "url" :"home.html"
+        },
+        {
+            "text" :"news",
+            "url" :"news.html"
+        },
+        {
+            "text" : "belgisayar",
+            "list" :
+            [
+            {
+                "text" : "file1",
+                "url" : "file1.html"
+            },
+            {
+                "text" : "file2",
+                "url" : "file2.html"
+            },
+            {
+                "text" : "file3",
+                "url" : "file3.html"
+            }
+            ]
+        },
+        {
+            "text" : "content",
+            "url" : "content.html"
+        },
+        {
+            "text" : "books",
+            "list" :
+            [
+                {
+                    "text" : "book1",
+                    "url" : "book1.html"
+                },
+                {
+                    "text" : "book2",
+                    "url" : "book2.html"
+                },
+                {
+                    "text" : "book3",
+                    "url" : "book3.html"
+                }
+            ]
+        }
+    ]
+}
